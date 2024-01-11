@@ -162,5 +162,5 @@ if(path.isfile(FileName)):
     plt.close()
 
 else:
-    print('ERROR: Unable to open '+str(FileName))
+    print('ERROR: Unable to open file "'+str(FileName)+'"')
 exit(0)
