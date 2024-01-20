@@ -1,4 +1,4 @@
-# HA-NirSoftWifiInfoView
+# NirSoftWifiInfoView
 Contains the python script I use to view which is the best channel to put my zigbee on.
 
 ## NirSoftWifiInfoView.py:
